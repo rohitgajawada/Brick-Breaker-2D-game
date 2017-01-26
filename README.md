@@ -43,4 +43,4 @@ If toggled for mouse usage, moving cursor will automatically rotate cannon
 Scrollup: zoom in
 Scrolldown: zoom out
 
-Music credits: Madder Sky - Code Geass OST
+Music credits: Mega Hyper Ultrastorm - incompetech.com
